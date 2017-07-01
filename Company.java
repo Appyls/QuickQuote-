@@ -42,7 +42,7 @@ public abstract class Company implements Comparable<Company>{
 	public abstract void ageDiscount();
 	// checks if client has local alarm or monitored alarm. boosts score if criteria met
 	public abstract void alarmDiscount();
-	/*
+	/**
 	 * Compares two Company objects based on the score
 	 * @param b a second company to compare with
 	 * @precondition b is a company
@@ -58,7 +58,7 @@ public abstract class Company implements Comparable<Company>{
 		else
 			return 0;
 	}
-	/*
+	/**
 	 * increaseScore(a) increases the score instance variable by a
 	 * @param a the amount to increase the score by
 	 * @precondition a is an integer
@@ -67,7 +67,7 @@ public abstract class Company implements Comparable<Company>{
 	public void increaseScore(int a){
 		score += a;
 	}
-	/*
+	/**
 	 * decreaseScore(a) decreases the score instance variable by a
 	 * @param a the amount to decrease the score by
 	 * @precondiion a is an integer
