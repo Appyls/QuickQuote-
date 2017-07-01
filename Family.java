@@ -1,4 +1,4 @@
-package insurance;
+package insuranceHelper;
 
 import java.util.ArrayList;
 
