@@ -22,4 +22,4 @@ The Housing Insurance Helper aims to simplify this process by:
 *Important:
 This is a java application. I have included a gui for you to test it, but it will require a java environment to run locally.
 
-To test download and run the Housing Insurance Helper.jar file :)
+To test, download and run the Housing Insurance Helper.jar file :)
