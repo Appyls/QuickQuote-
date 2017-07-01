@@ -6,7 +6,7 @@ public class Gore extends Company{
 		super(birthYear, postalCode, yearsClaimsFree, house);
 		name = "Gore";
 	}
-/*
+/**
  * @explanation: sewerBackupScore() will determine the territory of the house based on its
  * getPosatlCode. If the water territory is desirable, it will boost the score
  * 
