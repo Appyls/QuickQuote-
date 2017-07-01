@@ -1,4 +1,4 @@
-package insurance;
+package insuranceHelper;
 
 public class Gore extends Company{
 
