@@ -23,3 +23,7 @@ The Housing Insurance Helper aims to simplify this process by:
 This is a java application. I have included a gui for you to test it, but it will require a java environment to run locally.
 
 To test, download and run the Housing Insurance Helper.jar file :)
+
+# UML Diagram:
+
+![ScreenShot](https://user-images.githubusercontent.com/29148427/27764220-d558381e-5e48-11e7-89ea-d76583e8d35f.png)
