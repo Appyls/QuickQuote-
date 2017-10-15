@@ -1,9 +1,9 @@
-# Housing-Insurance-Helper
+# QuickQuote!
 Guides insurance brokers in choosing the right company to go to for the best coverage and price for homeowners policies in BC
 
 Currently Supports: Family Insurance, Gore Mutual Insurance, Intact Insurance, Wawanesa Insurance.
 
-The Housing Insurance Helper tool was developed with the intention to guide Insurance Brokers in their work by greatly simplifying the process of finding the best coverage package for the client.
+QuickQuote! was developed with the intention to guide Insurance Brokers in their work by greatly simplifying the process of finding the best coverage package for the client.
 For the average independant broker, their work flow may look something like this:
 1. Get Relevant information from client
 2. Calculate the dwelling's replacement cost through a computer program (for example MSB / RCT express)
@@ -11,7 +11,7 @@ For the average independant broker, their work flow may look something like this
 4. Based off of which company has the best coverage & cheapest price, go on the company's portal
 5. Use the company's portal to get the actual premium and generate the application
 
-The Housing Insurance Helper aims to simplify this process by:
+QuickQuote! aims to simplify this process by:
 1. Eliminating certain factors that are not needed to generate an accurate quotation
 2. Integrating the replacement cost calculation and the comparison quotation into one step
 3. Ranking each company from "most suitable" to "least suitable" based on the amount of discounts offerable to the client and if the house is in the company's "target market".
@@ -20,7 +20,7 @@ The Housing Insurance Helper aims to simplify this process by:
 6. Allows the broker to immediately know which company is best suited to the client
 
 *Important:
-This is a java application. I have included a gui for you to test it, but it will require a java environment to run locally.
+Unfortunately, I will not be able to provide the full program on open source, so here is a representative demonstration of what QuickQuote does. What you see here is only a snapshot of the final product.
 
 To test, download and run the Housing Insurance Helper.jar file :)
 
