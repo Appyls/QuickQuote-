@@ -19,8 +19,6 @@ QuickQuote! aims to simplify this process by:
 5. Serving as a guide to insurance brokers so that they are less likely to make mistakes
 6. Allows the broker to immediately know which company is best suited to the client
 
-*Important:
-Unfortunately, I will not be able to provide the full program on open source, so here is a representative demonstration of what QuickQuote does. What you see here is only a snapshot of the final product.
 
 To test, download and run the Housing Insurance Helper.jar file :)
 
