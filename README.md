@@ -20,7 +20,7 @@ QuickQuote! aims to simplify this process by:
 6. Allows the broker to immediately know which company is best suited to the client
 
 
-In a future update I am planning to implement a method to calculate the Sewer Backup Score of a client based off their postal code. I will create a HashMap that correlates the first three letters of the postal code to the company's sewer backup zone, and caluclate if the client's location is in a preferred territory or not.
+In a future update I am planning to implement a method to calculate the Sewer Backup Score of a client based off their postal code. I will create a HashMap that correlates the first three letters of the postal code to the company's sewer backup zone, and calculate if the client's location is in a preferred territory or not.
 
 # UML Diagram:
 
