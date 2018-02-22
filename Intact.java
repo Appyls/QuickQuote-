@@ -34,15 +34,16 @@ public class Intact extends Company {
 
 
 	public void ageDiscount() {
-		if (2017-this.getBirthYear() >= 50){
-			this.increaseScore(22);
-			discountList.add("Senior Discount 22%");
-		}
-		else if (2017-this.getBirthYear() >= 60){
+		
+		if (2017-this.getBirthYear() >= 60){
 			this.increaseScore(60);
 			discountList.add("Senior Discount 30%");
 		}
 
+		else if (2017-this.getBirthYear() >= 50){
+			this.increaseScore(22);
+			discountList.add("Senior Discount 22%");
+		}
 	}
 
 
